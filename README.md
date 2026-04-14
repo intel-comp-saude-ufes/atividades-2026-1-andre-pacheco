@@ -14,3 +14,5 @@ Obviamente, os códigos referentes às atividades ficam dentro da pasta.
 Outra boa prática é a inclusão de um `.gitignore` para o projeto.
 
 Siga à risca esse padrão para que suas atividades sejam corrigidas corretamente.
+
+LINK: [https://docs.google.com/presentation/d/1GEnxpZl54Q2EnYw6DrlC5PxcSgaD0Qs9aphXjgZsWNk/edit?usp=sharing](https://docs.google.com/presentation/d/1GEnxpZl54Q2EnYw6DrlC5PxcSgaD0Qs9aphXjgZsWNk/edit?usp=sharing)
